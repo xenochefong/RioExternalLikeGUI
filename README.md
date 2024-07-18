@@ -1,2 +1,8 @@
-# RioExternalLikeGUI
-Funny test, making an External's UI as a WF (all set up etc) and a regular script that acts semi the same as a external would
+# Rio External
+```
+-- Includes:
+- An application's UI (releases prob august)
+- External Like Script (prob in aug)
+-- Notes:
+Dont expect updates as this was a time-passer project, if there's demand it will probably evolve, but unlikely.
+```
